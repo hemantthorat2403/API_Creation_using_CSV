@@ -1,0 +1,5 @@
+field_name,type,options,mandatory
+Name,text,,TRUE
+Gender,singleSelect,"Male,Female",TRUE
+Age,number,,FALSE
+Date of Birth,date,,FALSE
